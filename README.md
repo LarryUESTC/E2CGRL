@@ -1,8 +1,4 @@
-# SUGRL
-Simple Unsupervised Graph Representation Learning--AAAI2022 
-
-We update code at: https://github.com/YujieMo/SUGRL
-
+# E2CGRL
 And this repository provide extended code for multiplex graph.
 
 Download data from Pan.Baidu:
